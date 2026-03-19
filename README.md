@@ -83,6 +83,26 @@ The goal of this project is to:
 
 ---
 
+## 📊 Standardization & Visualization
+
+### Dataset
+- human_data.csv (height, weight, foot size)
+
+### Objective
+- Apply standardization (평균=0, 표준편차=1)
+- Visualize distributions using histograms
+
+### Methods
+- StandardScaler from sklearn
+- Histogram visualization
+
+### Key Concept
+- Standardization scales variables but does not make values identical
+- Mean = 0, Standard Deviation = 1
+
+### Visualization
+- Combined histogram with scaling adjustment
+
 ## 🚀 Conclusion
 
 This project demonstrates how different visualization techniques can be used to explore and understand both categorical and numerical data effectively.
